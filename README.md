@@ -19,7 +19,7 @@ A simple yet powerful sticky note web application built using JavaScript, CSS, a
 
 1. Clone the repository to your local machine using the following command:
    ```
-   git clone [https://github.com/your-username/stickynote-webapp.git](https://github.com/AugustineTamba/Sticky-Notes-Web-App.git)
+   git clone https://github.com/AugustineTamba/Sticky-Notes-Web-App.git
    ```
 
 2. Open the `index.html` file in your preferred web browser.
@@ -32,7 +32,7 @@ https://stickypad.netlify.app
 
 ## Screenshots
 
-[stickyme](https://github.com/AugustineTamba/Sticky-Notes-Web-App/assets/51299834/f7190766-2457-42a4-aca5-7355ccd32006)
+(https://github.com/AugustineTamba/Sticky-Notes-Web-App/assets/51299834/f7190766-2457-42a4-aca5-7355ccd32006)
 ]
 
 ## Contributing
