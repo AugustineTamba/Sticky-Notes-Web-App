@@ -32,7 +32,7 @@ https://stickypad.netlify.app
 
 ## Screenshots
 
-https://github.com/AugustineTamba/Sticky-Notes-Web-App/assets/51299834/f7190766-2457-42a4-aca5-7355ccd32006
+![stickyme](https://github.com/AugustineTamba/Sticky-Notes-Web-App/assets/51299834/835b7598-9ea0-4bd4-9300-c37f81f5ce27)
 
 
 ## Contributing
