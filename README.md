@@ -32,8 +32,8 @@ https://stickypad.netlify.app
 
 ## Screenshots
 
-(https://github.com/AugustineTamba/Sticky-Notes-Web-App/assets/51299834/f7190766-2457-42a4-aca5-7355ccd32006)
-]
+https://github.com/AugustineTamba/Sticky-Notes-Web-App/assets/51299834/f7190766-2457-42a4-aca5-7355ccd32006
+
 
 ## Contributing
 
